@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+torch
+torchvision
+torchaudio
+kagglehub
+seaborn
+streamlit
+# python -m venv LSTM
+# source LSTM/Scripts/activate
