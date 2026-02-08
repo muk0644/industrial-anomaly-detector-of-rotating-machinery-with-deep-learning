@@ -40,9 +40,6 @@ env/
 *.ipynb
 
 # Data (keep processed results, ignore raw large files)
-raw_data/
-*.npy
-*.pth
 
 # Logs
 *.log
